@@ -1,0 +1,69 @@
+ Mamadou A. Balde
+Address: 1737 Redgate Farms CT, Rockville MD 20850 | Email: mabalde04@gmail.com | Cell: +1 (646)-858-9435
+SUMMARY
+Talented senior software engineer with 7+ years of full stack experience building innovative, scalable and resilient software systems. In-depth knowledge of B2B payments solutions with client facing applications generating millions of dollars in revenues. Forward thinking engineer with strong architectural and technical skills. Passionate learner of new technologies with a curious mindset looking for a collaborative and innovative work environment.
+SKILLS
+Patents: Methods for Managing State of Cloud-Based Systems - Patent No: US 10,498,665 B1
+Certifications: AWS Certified Solution Architect, AWS Certified Developer , Capital One Certified Security Software Engineer (CSSE)
+Computer Language/Framework: Proficient in Java, Typescript, Angular, Flutter, Python, Spring, SpringBoot, AWS Lambda, Docker, Github, Unix, CI/CD, ATDD, Cucumber, Gherkin, MySQL, Postgres, HTML, CSS, Splunk
+Language: Fluent in French and Fulani
+PROFESSIONAL EXPERIENCE
+Capital One, Mclean, VA July 2016 - Present Senior Software Engineer
+● Developing highly scalable B2B payment platform for all payment types (Cards, ACH, Checks) to enable real time payments for Commercial Card clients
+● Tech lead for an agile engineering team helping identify and resolve impediments, collaborate with other senior level engineers and managers to define scope of work
+● Design, build and test enterprise APIs using Spring/SpringBoot Framework
+● Implemented a reporting tool to generate monthly reports from different data sources to replace manual
+reconciliation process for our clients
+● Managed and mentored summer interns while guiding them through the software development cycle
+● Designed and implemented multiple serverless applications using AWS lambda, DynamoDB
+● Designed, built and shipped newest Commercial Card Platform (CCP) to market leveraging cloud native
+technologies enabling millions in pvol spent for our customers
+● Implemented GraphQL based microservice orchestrator for more flexible data querying
+● Developed and built single page web application using Angular framework
+● Migrated AngularJS application to the latest Angular Framework by developing reusable components
+that can easily be shared between libraries.
+● Implemented batch process using Java Spring Batch framework to load data in Postgres Database
+● Implemented data solutions within Enterprise Data Services (EDS) team that works on the Hadoop environment and leverages several different technologies such as Cascading & Spark for data validation and refinement
+● Participated in design, development, implementation, and support of process streams to source, transform, validate, and land data collections for consumption by critical business applications
+U.S Army War College, Carlisle, PA August 2015- May 2016 Web and Database Developer
+● Designed and implemented a Web-based database with an interactive map of peacekeeping training opportunities
+    
+ ● Collaborated with senior military officials to scope out project requirements
+● Translated client’s needs into technical requirements for implementation
+Viacom International Media Networks – Nickelodeon, New York, NY
+Intern, Business Operations June 2015- August 2015
+● Developed and managed Business Intelligence reports utilizing SAP Business Objects
+● Modified existing reports based on requirements from internal sales and analytics teams
+● Performed upload and validation of high volume sales data using Shiloh 5 retail sales reporting system
+● Managed and tracked consumer products system trouble tickets using Zen Desk
+● Routed tickets to appropriate internal business users
+Intern, Global Consumer Product (CP) team May 2014- August 2014
+● Supported business analysts and core team on Consumer Products Operations systems replacement
+project
+● Performed adhoc strategic and operational efficiency analyses for Viacom OTC business processes
+● Developed and analyzed business reports using SAP Business Objects software
+● Executed system testing on business and financial use cases
+● Completed accurate data entry into Dependable Right Manager (DRM) contract and royalty
+management system
+LEADERSHIP EXPERIENCE
+Dickinson College, Carlisle, PA
+Community Advisor August 2015- May 2016
+● Supervise a staff of 8 Resident Advisors and conduct individual check-in with staff members
+● Organize and facilitate weekly meetings for Resident Advisor
+● Assess the needs of the community and develop goals to meet these needs
+Resident Advisor August 2013- December 2014
+● Managed a residence hall floor of 40 ethnically diverse undergraduate students
+● Counseled and mentored students on various personal and academic issues
+● Budgeted and allocated money used for residence hall events
+● Developed and led student centered hall programs to promote education, diversity, understanding and growth
+EDUCATION
+Georgia Institute of Technology, Atlanta, GA
+● Master’s Degree, Computer Science | May 2020
+● Courses: Knowledge Based A.I, Machine Learning for Trading, Software Architecture & Design,
+Advanced Operating Systems , Graduate Algorithms
+Dickinson College, Carlisle, PA
+● Bachelor’s Degree, Computer Science & Economics | May 2016
+● Honors: Magna Cum Laude, Posse Foundation Leadership Scholarship, Upsilon Pi Epsilon - Computer
+Science Honor Society, Alpha Lambda Delta Honor Society, Dean’s List
+● Study Abroad: University of Toulouse 1 Capitole, Toulouse, France
+  
